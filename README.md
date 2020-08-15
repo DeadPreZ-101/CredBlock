@@ -6,7 +6,7 @@
    A blockchain solution for academic credential verification.
 </h2>
 
-<p align="center">
+<p>
    - I am leveraging Distributed Ledger Technology by integrating Blockchain infrastructure in my business model. I strive to streamline the credential verification process for educational institutions, students, and employers. </br>
    - My business will facilitate employers in validating candidate education in minutes, while putting an end to fake academic credentials.</p>
    
