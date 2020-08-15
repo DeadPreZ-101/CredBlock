@@ -18,6 +18,4 @@
 </h4>
 
 
-## Zakariya Jasat
 
-I am a talented Blockchain and HR/Business Administration with experience overseeing successful keystone initiatives from launch to delivery and reaching strategic business objectives through boosting team member engagement. I am passionate about Blockchain and currently transitioning into the industry by leveraging my knowledge on how to design, create and implement Blockchain Architecture.
